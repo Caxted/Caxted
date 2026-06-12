@@ -216,7 +216,7 @@ class SangeethCS extends FlutterDeveloper {
 | 🥇 | **1st Place** — Project Expo 2026, IEDC & ISTE SIMAT, ASTHRA'26 (March 2026) |
 | 🥉 | **3rd Place**, Best Project Award — Cowtrack: Smart Dairy Farm Management, B.Tech CSE Final Year (2025–2026) |
 | 🎯 | **Top Participant** — Competitive AI Internship Selection, Fault Line Decision Intelligence System |
-| 🐟 | **Award Winner** — MaFishy at ASTHRA'26 & SIMAT Innovation Expo (Student Founder) |
+| 🐟 | **Award Winner** — CowTrack at ASTHRA'26 & SIMAT Innovation Expo (Student Founder) |
 | ☁️ | **AWS Certified** — Fundamentals of Machine Learning & Artificial Intelligence (2024) |
 | 🎓 | **Corizo AI Training Certificate** — IIT Bombay Mood Indigo · Dice ID: CRZ127773 (Oct–Nov 2025) |
 | 📱 | **Corizo Android Dev Certificate** — IIT Bombay Mood Indigo · Dice ID: CRZ112265 (Jul–Aug 2025) |
